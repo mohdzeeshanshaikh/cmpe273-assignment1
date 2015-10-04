@@ -1,6 +1,6 @@
 #Stock Market
 ##How to use:
-###To Buy:
+###To Buy Stocks:
 ####Request
 go run client.go "GOOG:65%,YHOO:35%" 38500
 
@@ -12,7 +12,7 @@ stock1 name:share number:stock1 price  stock2 name:share number:stock2 price ...
 
 Uninvested Amount
 
-###To Check:
+###To Check Portfolio:
 ####Request
 go run client.go 101
 
